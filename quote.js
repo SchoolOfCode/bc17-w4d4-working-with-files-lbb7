@@ -18,7 +18,7 @@ export async function getQuotes() {
 
 
 export async function addQuote(quoteText) {
-
+    
 }
 
 export async function getRandomQuote() {
