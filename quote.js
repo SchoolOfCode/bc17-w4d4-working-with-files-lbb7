@@ -1,5 +1,5 @@
 import fs from "node:fs/promises";
-import { readFile } from 'fs/promises';
+import { readFile } from 'node:fs/promises';
 import { v4 as uuidv4 } from "uuid";
 
 const fileName = "quotes.json";
